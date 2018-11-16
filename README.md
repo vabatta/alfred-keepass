@@ -29,6 +29,8 @@ on the clipboard (or using `CMD+C` to just copy the password).
 (**Note:** *You must activate the clipboard history to see both of them on Alfred.*)
 ![result of a query](./screenshot/alfred_keepass_4.png)
 
+There is a version with the auto-type functionality on SHIFT press (this is done through applescript in the Alfred workflow).
+
 # Troubleshooting
 P: The script `setup.rb` just crashes when I run it.  
 S: You must either open and unlock the KeePass database.  
