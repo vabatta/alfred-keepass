@@ -1,7 +1,7 @@
 # encoding: utf-8
 load "runner.rb"
 
-keepass_server = "http://localhost:19455"
+keepass_server = "https://localhost:19455"
 key_name = "<YOUR KEY NAME>"
 aes_key = "<YOUR AES KEY>"
 format = "%s %s"
