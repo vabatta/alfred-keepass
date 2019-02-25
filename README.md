@@ -46,7 +46,7 @@ S: **Do not** close MacPass but keep it minimized so that the `KeePassHTTP Servi
 P: I want to see my clipboard history on Alfred.  
 S: [Here you go.](https://www.alfredapp.com/help/features/clipboard/#clipboard-history)  
 
-P: Can you please add the auto-type functionality?
+P: Can you please add the auto-type functionality?  
 S: Look up in the releases, there is a version which supports it through an applescript in the alfred workflow. No ruby scripts needed!
 
 # Roadmap
